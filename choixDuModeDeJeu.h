@@ -1,0 +1,7 @@
+#ifndef CHOIXDUMODEDEJEU_H_INCLUDED
+#define CHOIXDUMODEDEJEU_H_INCLUDED
+
+void choixDuModeDeJeu();
+int menuEnDebutDePartie();
+
+#endif // CHOIXDUMODEDEJEU_H_INCLUDED

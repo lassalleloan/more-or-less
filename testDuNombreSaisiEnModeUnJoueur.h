@@ -1,0 +1,7 @@
+#ifndef TESTDUNOMBREENMODEUNJOUEUR_H_INCLUDED
+#define TESTDUNOMBREENMODEUNJOUEUR_H_INCLUDED
+
+void testDuNombreSaisiEnModeUnJoueur(int nombreMystere);
+void testDuNombreSaisiAvecCompteurDeCoupsEnModeUnJoueur(int nombreMystere);
+
+#endif // TESTDUNOMBREENMODEUNJOUEUR_H_INCLUDED

@@ -1,0 +1,7 @@
+#ifndef CHOIXENFINDEPARTIE_H_INCLUDED
+#define CHOIXENFINDEPARTIE_H_INCLUDED
+
+int menuEnFinDePartie();
+void choixEnFinDePartie();
+
+#endif // CHOIXENFINDEPARTIE_H_INCLUDED
