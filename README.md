@@ -1,3 +1,3 @@
 # More or less :: Find out the mystery number
-Authors: Loan Lassalle
+Author: Loan Lassalle
 ---
